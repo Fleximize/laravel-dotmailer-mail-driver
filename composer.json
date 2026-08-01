@@ -27,7 +27,7 @@
         "php": "^8.2",
         "illuminate/support": "10.*",
         "illuminate/http": "10.*",
-        "guzzlehttp/guzzle": "^7.0"
+        "guzzlehttp/guzzle": "^7.0 || ^8.0"
     },
     "extra": {
         "laravel": {
